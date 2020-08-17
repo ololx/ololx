@@ -1,3 +1,7 @@
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=ololx&&style=flat-square"/>
+</div> 
+
 **<h1 align="center">Hi 👋, everyone</h1>**  
   
 ### <h3 align="center">I'm Alexander, PhD in physics and mathematics and a full-time java - developer 👨‍💻 working remotely since 2019 🚀</h3>  
@@ -58,11 +62,4 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ololx&show_icons=true&count_private=true" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ololx&layout=compact&hide=html" alt="ololx" />
-</div>   
-<br/>
-
-
-## Visitors 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ololx&&style=flat-square"/>
-</div> 
+</div>
