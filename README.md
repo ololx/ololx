@@ -60,6 +60,6 @@
 
 ## Github Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ololx&show_icons=true&count_private=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=ololx&show_icons=true&count_private=true" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ololx&layout=compact&hide=html" alt="ololx" />
 </div>
