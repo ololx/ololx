@@ -10,13 +10,16 @@
 
 - ⚡ Fun fact: I use tabs over spaces  
 
+
 ## I Use and Faced With
 <table><tr><td valign="top" width="33%">
+
 
 ### Frontend  
 <div align="center">  
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="75" />  
 </div></td><td valign="top" width="33%">
+
 
 ### Backend  
 <div align="center">  
@@ -25,6 +28,7 @@
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="75" />  
 <img style="margin: 10px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" height="75" />  
 </div></td><td valign="top" width="33%">
+
 
 ### DevOps  
 <div align="center">  
@@ -38,6 +42,7 @@
 <img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="Docker" height="75" />  
 </div></td></tr></table>  
 
+
 ## Connect with me  
 <div align="center">
   <a href="https://github.com/ololx" target="_blank">
@@ -48,12 +53,14 @@
   </a>  
 </div>   
 
+
 ## Github Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ololx&show_icons=true&count_private=true" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ololx&show_icons=true&count_private=true" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ololx&layout=compact&hide=html" alt="ololx" />
 </div>   
 <br/>
+
 
 ## Visitors 
 <div align="left">
