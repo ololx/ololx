@@ -53,10 +53,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ololx&show_icons=true&count_private=true" align="center" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ololx&layout=compact&hide=html" alt="ololx" />
 </div>   
-<br />
-
+<br/>
 
 ## Visitors 
-<div align="center">
+<div align="left">
   <img src="https://komarev.com/ghpvc/?username=ololx&&style=flat-square" align="center" />
 </div> 
