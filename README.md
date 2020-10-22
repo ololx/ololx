@@ -4,7 +4,7 @@
 
 **<h1 align="center">Hi 👋, everyone</h1>**  
   
-### <h3 align="center">I'm Alexander, PhD in physics and mathematics and a full-time java - developer 👨‍💻 working remotely since 2019 🚀</h3>  
+### <h3 align="center">I'm Alexander, PhD in physics and mathematics and a full-time java - developer 👨‍💻 working remotely since 2018 🚀</h3>  
   
 - 🔭 I'm currently working in the Innopolis  
 
