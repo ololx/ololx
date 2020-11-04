@@ -31,20 +31,20 @@
 ## Github Stats
 <table align="center" width="100%">
   <tr>
-    <td width="40%"><b>General</b></td>
-    <td width="60%"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ololx&show_icons=true&count_private=true" alt="general" width="100%" /></td>
+    <td width="50%"><b>General</b></td>
+    <td width="50%"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ololx&show_icons=true&count_private=true" alt="general" /></td>
   </tr>
   <tr>
-    <td width="40%"><b>Streaks</b></td>
-    <td width="60%"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ololx" alt="streaks" width="100%" /></td>
+    <td width="50%"><b>Streaks</b></td>
+    <td width="50%"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ololx" alt="streaks"/></td>
   </tr>
   <tr>
-    <td width="40%"><b>Repositories</b></td>
-    <td width="60%">
-      <table width="100%">
+    <td width="50%"><b>Repositories</b></td>
+    <td width="50%">
+      <table>
         <tr>
-          <td width="50%"><img src="https://github-profile-trophy.vercel.app/?username=ololx&title=Repositories" alt="repositories" width="100%" /></td>
-          <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ololx" alt="languages" width="100%" /></td>
+          <td width="50%"><img align="center" src="https://github-profile-trophy.vercel.app/?username=ololx&title=Repositories" alt="repositories"/></td>
+          <td width="50%"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ololx" alt="languages"/></td>
         </tr>
       </table>
     </td>  
