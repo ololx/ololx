@@ -32,19 +32,21 @@
 <table align="center" width="100%">
   <tr>
     <td width="50%"><b>General</b></td>
-    <td width="50%"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ololx&show_icons=true&count_private=true" alt="general" /></td>
+    <td width="50%"><img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=ololx&show_icons=true&count_private=true" alt="general" /></td>
   </tr>
   <tr>
     <td width="50%"><b>Streaks</b></td>
-    <td width="50%"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ololx" alt="streaks"/></td>
+    <td width="50%"><img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ololx" alt="streaks"/></td>
   </tr>
   <tr>
     <td width="50%"><b>Repositories</b></td>
     <td width="50%">
       <table>
         <tr>
-          <td width="50%"><img align="center" src="https://github-profile-trophy.vercel.app/?username=ololx&title=Repositories" alt="repositories"/></td>
-          <td width="50%"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ololx" alt="languages"/></td>
+          <td><img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=ololx&title=Repositories" alt="repositories"/></td>
+        </tr>
+        <tr>
+          <td><img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ololx" alt="languages"/></td>
         </tr>
       </table>
     </td>  
