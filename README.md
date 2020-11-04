@@ -14,39 +14,6 @@
 
 - ⚡ Fun fact: I use tabs over spaces  
 
-
-## I Use and Faced With
-<table><tr><td valign="top" width="33%">
-
-
-### Frontend  
-<div align="center">  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="75" />  
-</div></td><td valign="top" width="33%">
-
-
-### Backend  
-<div align="center">  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="Java" height="75" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg" alt="PHP" height="75" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="JavaScript" height="75" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring" height="75" />  
-</div></td><td valign="top" width="33%">
-
-
-### DevOps  
-<div align="center">  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="Linux" height="75" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="75" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" height="75" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="Kafka" height="75" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" height="75" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="75" />  
-<img style="margin: 10px" src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" height="75" />  
-<img style="margin: 10px" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="Docker" height="75" />  
-</div></td></tr></table>  
-
-
 ## Connect with me  
 <div align="center">
   <a href="https://github.com/ololx" target="_blank">
@@ -61,8 +28,25 @@
 </div>   
 
 
-## Github Stats  
-<div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ololx&show_icons=true&count_private=true" alt="ololx"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ololx&layout=compact&hide=html" alt="ololx" />
-</div>
+## Github Stats
+<table align="center" width="100%">
+  <tr>
+    <td width="40%"><b>General</b></td>
+    <td width="60%"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ololx&show_icons=true&count_private=true" alt="general" width="100%" /></td>
+  </tr>
+  <tr>
+    <td width="40%"><b>Streaks</b></td>
+    <td width="60%"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ololx" alt="streaks" width="100%" /></td>
+  </tr>
+  <tr>
+    <td width="40%"><b>Repositories</b></td>
+    <td width="60%">
+      <table width="100%">
+        <tr>
+          <td width="50%"><img src="https://github-profile-trophy.vercel.app/?username=ololx&title=Repositories" alt="repositories" width="100%" /></td>
+          <td width="50%"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ololx" alt="languages" width="100%" /></td>
+        </tr>
+      </table>
+    </td>  
+  </tr>
+</table>
