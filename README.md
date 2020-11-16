@@ -40,15 +40,6 @@
   </tr>
   <tr>
     <td width="50%"><b>Repositories</b></td>
-    <td width="50%">
-      <table>
-        <tr>
-          <td><img width="100%" align="center" src="https://github-profile-trophy.vercel.app/?username=ololx&title=Repositories" alt="repositories"/></td>
-        </tr>
-        <tr>
-          <td><img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ololx" alt="languages"/></td>
-        </tr>
-      </table>
-    </td>  
+    <td width="50%"><img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ololx" alt="languages"/></td>
   </tr>
 </table>
