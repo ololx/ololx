@@ -29,17 +29,15 @@
 
 
 ## Github Stats
-<table align="center" width="100%">
-  <tr>
-    <td width="30%"><b>General</b></td>
-    <td width="70%"><img width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=ololx&show_icons=true&count_private=true" alt="general" /></td>
-  </tr>
-  <tr>
-    <td width="30%"><b>Streaks</b></td>
-    <td width="70%"><img width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ololx" alt="streaks"/></td>
-  </tr>
-  <tr>
-    <td width="30%"><b>Repositories</b></td>
-    <td width="70%"><img width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ololx" alt="languages"/></td>
-  </tr>
-</table>
+
+### General
+
+<img align="center" width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=ololx&show_icons=true&count_private=true" alt="general" />
+
+### Streaks
+
+<img align="center" width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ololx" alt="streaks"/>
+
+### Repositories
+
+<img align="center" width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ololx" alt="languages"/>
