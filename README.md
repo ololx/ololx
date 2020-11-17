@@ -38,6 +38,6 @@
 
 <img align="center" width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ololx" alt="streaks"/>
 
-### Repositories
+### Lnaguages
 
 <img align="center" width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ololx" alt="languages"/>
