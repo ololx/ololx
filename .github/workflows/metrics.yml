@@ -13,8 +13,8 @@ jobs:
       - name: Metrics plugin
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          token: 0810f74a370c51e25be4f279ac062751f63ed71a
+          committer_token: 0810f74a370c51e25be4f279ac062751f63ed71a
           # Languages
           plugin_languages: yes
           # Lines
@@ -25,8 +25,8 @@ jobs:
         uses: lowlighter/metrics@master
         with:
           filename: github-metrics-plugin-stars.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          token: 0810f74a370c51e25be4f279ac062751f63ed71a
+          committer_token: 0810f74a370c51e25be4f279ac062751f63ed71a
           base: ""
           plugin_stars: yes
           plugin_stars_limit: 1
