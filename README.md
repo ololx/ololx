@@ -41,3 +41,7 @@
 ### Lnaguages
 
 <img align="center" width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ololx" alt="languages"/>
+
+
+<img align="left" width="400px" src="https://github.com/rajatdiptabiswas/rajatdiptabiswas/blob/main/github-metrics.svg">
+<img align="right" width="400px" src="https://github.com/rajatdiptabiswas/rajatdiptabiswas/blob/main/github-metrics-plugin-stars.svg">
