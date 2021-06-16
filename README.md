@@ -8,14 +8,14 @@
   
 - 🔭 I'm currently working in the Innopolis  
 
-- 🌱 I’m currently learning game development patterns  
+- 🌱 I’m currently learning microservice architecture patterns
 
 - ❓ Ask me about anything related to OWL-DL ontologies and Description Logics  
 
 - ⚡ Fun fact: I use tabs over spaces  
 
 ## Connect with me  
-<div align="center">
+<div align="center" width="100%" >
   <a href="https://linkedin.com/in/alexander-kropotin-a5107a195" target="_blank">
     <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
@@ -30,17 +30,16 @@
   </a>
 </div>   
 
-
 ## Github Stats
 
 ### General
 
-<img align="center" width="100%" align="center" src="https://github-readme-stats.vercel.app/api?username=ololx&show_icons=true&count_private=true" alt="general" />
-
-### Streaks
-
-<img align="center" width="100%" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ololx" alt="streaks"/>
+<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=ololx&show_icons=true&count_private=true" alt="general" />
 
 ### Lnaguages
 
-<img align="center" width="100%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ololx&layout=compact" alt="languages"/>
+<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ololx&layout=compact" alt="languages"/>
+
+### Streaks
+
+<img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ololx" alt="streaks"/>
