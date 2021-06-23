@@ -22,6 +22,9 @@
   <a href="https://t.me/help_us_Harry" target="_blank">
     <img src=https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
   </a>
+  <a href="https://icq.im/ololx" target="_blank">
+    <img src=https://img.shields.io/badge/icq_new-F2F4F9?style=for-the-badge&logo=icq&logoColor=79FA4C&labelColor=000000 alt=icq style="margin-bottom: 5px;" />
+  </a>
   <a href="https://www.facebook.com/alexandr.kropotin.9" target="_blank">
     <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
   </a>
