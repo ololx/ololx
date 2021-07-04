@@ -44,7 +44,7 @@
 
 ### Lnaguages
 
-<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ololx&layout=compact" alt="languages"/>
+<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ololx&langs_count=6&layout=compact" alt="languages"/>
 
 ### Streaks
 
