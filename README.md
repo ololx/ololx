@@ -5,6 +5,9 @@
 **<h1 align="center">Hi 👋, everyone</h1>**  
   
 ### <h3 align="center">I'm Alexander, PhD in physics and mathematics and a full-time java - developer 👨‍💻 </h3>  
+
+<details>
+  <summary>Something about me</summary> 
   
 - 🔭 I'm currently working in the Innopolis  
 
@@ -12,8 +15,10 @@
 
 - ❓ Ask me about anything related to OWL-DL ontologies and Description Logics  
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I use tabs over spaces
 
+</details>  
+  
 ## Connect with me  
 <div align="center" width="100%" >
   <a href="https://linkedin.com/in/alexander-kropotin-a5107a195" target="_blank">
@@ -34,9 +39,9 @@
   <a href="https://vk.com/ololx" target="_blank">
     <img src=https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white alt=vk style="margin-bottom: 5px;" />
   </a>
-</div>   
+</div> 
 
-## Github Stats
+## Github Stats 
 
 ### General
 
