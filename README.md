@@ -1,17 +1,17 @@
-<div align="left">
+<div align="right">
   <img src="https://komarev.com/ghpvc/?username=ololx&&style=flat-square"/>
 </div> 
 
-**<h1 align="center">Hi 👋, everyone</h1>**  
+<h1 align="center">Hi 👋, everyone</h1>
   
-### <h3 align="center">I'm Alexander, PhD in physics and mathematics and a full-time java - developer 👨‍💻 </h3>  
+<h3 align="center">I'm Alexander, PhD in physics and mathematics and a full-time java - developer 👨‍💻 </h3>  
 
-<details>
-  <summary>Something about me</summary> 
+<details open>
+  <summary>Summary</summary> 
   
-- 🔭 I'm currently working in the Innopolis  
+- 🔭 I'm currently working in Innopolis
 
-- 🌱 I’m currently learning microservice architecture patterns
+- 🌱 I'm currently learning Java back-end practices & tricks
 
 - ❓ Ask me about anything related to OWL-DL ontologies and Description Logics  
 
@@ -19,7 +19,7 @@
 
 </details>  
   
-## Connect with me  
+<h2 align="left">Connect with me</h2>
 <div align="center" width="100%" >
   <a href="https://linkedin.com/in/alexander-kropotin-a5107a195" target="_blank">
     <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -41,16 +41,13 @@
   </a>
 </div> 
 
-## Github Stats 
+<h2 align="left">Github Stats</h2>
 
-### General
-
+<h3 align="left">General</h3>
 <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=ololx&show_icons=true&count_private=true" alt="general" />
 
-### Lnaguages
-
+<h3 align="left">Lnaguages</h3>
 <img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ololx&langs_count=6&layout=compact" alt="languages"/>
 
-### Streaks
-
+<h3 align="left">Streaks</h3>
 <img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ololx" alt="streaks"/>
