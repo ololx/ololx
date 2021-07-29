@@ -20,7 +20,7 @@
 </details>  
 
 <h2 align="left">Connect with me</h2>
-<div align="center" width="100%" >
+<div align="center" width="100%">
   <a href="https://linkedin.com/in/alexander-kropotin-a5107a195" target="_blank">
     <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
@@ -42,9 +42,19 @@
 </div> 
 
 <h2 align="left">Github Stats</h2>
+<<<<<<< HEAD
 <img display="block" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ololx&langs_count=8" alt="languages"/>
 <img display="block" align="right" width="20%" src="https://github.com/ololx/ololx/blob/master/GithubProfileQr.png?raw=true" alt="qr" />
 <img display="block" align="right" width="26%" src="https://github.com/ololx/ololx/blob/master/MottoOfTheDay.gif?raw=true" alt="motto" />
 <img display="block" align="right" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=ololx" alt="streaks"/>
 <img display="block" align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=ololx&show_icons=true&count_private=true" alt="general" />
 
+=======
+<div align="center" width="100%">
+    <img display="block" align="left"  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ololx&langs_count=8" alt="languages"/>
+    <img display="block" align="right" width="16%" src="https://github.com/ololx/ololx/blob/master/GithubProfileQr.png?raw=true" alt="qr" />
+    <img display="block" align="right" width="22%" src="https://github.com/ololx/ololx/blob/master/MottoOfTheDay.gif?raw=true" alt="motto" />
+    <img display="block" align="right" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=ololx" alt="streaks"/>
+    <img display="block" align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=ololx&show_icons=true&count_private=true" alt="general" />
+</div>  
+>>>>>>> 5f160a1b3beb431f8d48d66b10fea10d3d226dff
