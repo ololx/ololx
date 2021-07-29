@@ -3,12 +3,12 @@
 </div> 
 
 <h1 align="center">Hi 👋, everyone</h1>
-  
+
 <h3 align="center">I'm Alexander, PhD in physics and mathematics and a full-time java - developer 👨‍💻 </h3>  
 
 <details open>
   <summary>Summary</summary> 
-  
+
 - 🔭 I'm currently working in Innopolis
 
 - 🌱 I'm currently learning Java back-end practices & tricks
@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I use tabs over spaces
 
 </details>  
-  
+
 <h2 align="left">Connect with me</h2>
 <div align="center" width="100%" >
   <a href="https://linkedin.com/in/alexander-kropotin-a5107a195" target="_blank">
@@ -47,3 +47,4 @@
 <img display="block" align="right" width="26%" src="https://github.com/ololx/ololx/blob/master/MottoOfTheDay.gif?raw=true" alt="motto" />
 <img display="block" align="right" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=ololx" alt="streaks"/>
 <img display="block" align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=ololx&show_icons=true&count_private=true" alt="general" />
+
