@@ -42,12 +42,8 @@
 </div> 
 
 <h2 align="left">Github Stats</h2>
-
-<h3 align="left">General</h3>
-<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api?username=ololx&show_icons=true&count_private=true" alt="general" />
-
-<h3 align="left">Lnaguages</h3>
-<img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ololx&langs_count=6&layout=compact" alt="languages"/>
-
-<h3 align="left">Streaks</h3>
-<img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=ololx" alt="streaks"/>
+<img display="block" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ololx&langs_count=8" alt="languages"/>
+<img display="block" align="right" width="20%" src="https://github.com/ololx/ololx/blob/master/GithubProfileQr.png?raw=true" alt="qr" />
+<img display="block" align="right" width="26%" src="https://github.com/ololx/ololx/blob/master/MottoOfTheDay.gif?raw=true" alt="motto" />
+<img display="block" align="right" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=ololx" alt="streaks"/>
+<img display="block" align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=ololx&show_icons=true&count_private=true" alt="general" />
