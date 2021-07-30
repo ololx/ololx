@@ -3,12 +3,12 @@
 </div> 
 
 <h1 align="center">Hi 👋, everyone</h1>
-
+  
 <h3 align="center">I'm Alexander, PhD in physics and mathematics and a full-time java - developer 👨‍💻 </h3>  
 
 <details open>
   <summary>Summary</summary> 
-
+  
 - 🔭 I'm currently working in Innopolis
 
 - 🌱 I'm currently learning Java back-end practices & tricks
@@ -18,7 +18,7 @@
 - ⚡ Fun fact: I use tabs over spaces
 
 </details>  
-
+  
 <h2 align="left">Connect with me</h2>
 <div align="center" width="100%">
   <a href="https://linkedin.com/in/alexander-kropotin-a5107a195" target="_blank">
@@ -42,19 +42,11 @@
 </div> 
 
 <h2 align="left">Github Stats</h2>
-<<<<<<< HEAD
-<img display="block" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ololx&langs_count=8" alt="languages"/>
-<img display="block" align="right" width="20%" src="https://github.com/ololx/ololx/blob/master/GithubProfileQr.png?raw=true" alt="qr" />
-<img display="block" align="right" width="26%" src="https://github.com/ololx/ololx/blob/master/MottoOfTheDay.gif?raw=true" alt="motto" />
-<img display="block" align="right" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=ololx" alt="streaks"/>
-<img display="block" align="right" width="47%" src="https://github-readme-stats.vercel.app/api?username=ololx&show_icons=true&count_private=true" alt="general" />
-
-=======
 <div align="center" width="100%">
-    <img display="block" align="left"  width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ololx&langs_count=8" alt="languages"/>
-    <img display="block" align="right" width="16%" src="https://github.com/ololx/ololx/blob/master/GithubProfileQr.png?raw=true" alt="qr" />
-    <img display="block" align="right" width="22%" src="https://github.com/ololx/ololx/blob/master/MottoOfTheDay.gif?raw=true" alt="motto" />
-    <img display="block" align="right" width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=ololx" alt="streaks"/>
-    <img display="block" align="right" width="40%" src="https://github-readme-stats.vercel.app/api?username=ololx&show_icons=true&count_private=true" alt="general" />
+    <img display="block" align="left"  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ololx&langs_count=8&layout=compact" alt="languages"/>
+    <img display="block" align="right" width="25%" src="https://github.com/ololx/ololx/blob/master/MottoOfTheDay.gif?raw=true" alt="motto" />
+    <img display="block" align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ololx" alt="streaks"/>
+    <img display="block" align="left" width="18%" src="https://github.com/ololx/ololx/blob/master/CoffeCup.gif?raw=true" alt="cofee" />
+    <img display="block" align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=ololx&show_icons=true&count_private=true" alt="general" />
+    <img display="block" align="right" width="18%" src="https://github.com/ololx/ololx/blob/master/NeonDonut.gif?raw=true" alt="motto" />
 </div>  
->>>>>>> 5f160a1b3beb431f8d48d66b10fea10d3d226dff
