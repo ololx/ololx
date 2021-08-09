@@ -43,10 +43,10 @@
 
 <h2 align="left">Github Stats</h2>
 <div align="center" width="100%">
-    <img display="block" align="left"  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ololx&cache_seconds=1800&langs_count=8&hide=NSIS&layout=compact&theme=flag-india&custom_title=Top Languages Used" alt="languages"/>
+    <img display="block" align="left"  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ololx&cache_seconds=1800&langs_count=8&hide=NSIS&layout=compact&theme=default&custom_title=Top Languages Used" alt="languages"/>
     <img display="block" align="right" width="25%" src="https://github.com/ololx/ololx/blob/master/MottoOfTheDay.gif?raw=true" alt="motto" />
-    <img display="block" align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ololx&cache_seconds=1800&theme=flag-india" alt="streaks"/>
+    <img display="block" align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ololx&cache_seconds=1800&theme=default" alt="streaks"/>
     <img display="block" align="left" width="26%" src="https://github.com/ololx/ololx/blob/master/CoffeCup.gif?raw=true" alt="cofee" />
-    <img display="block" align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=ololx&cache_seconds=1800&show_icons=true&count_private=true&include_all_commits=true&theme=flag-india&custom_title=Some Github Stats" alt="general" />
+    <img display="block" align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=ololx&cache_seconds=1800&show_icons=true&count_private=true&include_all_commits=true&theme=default&custom_title=Some Github Stats" alt="general" />
     <img display="block" align="right" width="29%" src="https://github.com/ololx/ololx/blob/master/NeonDonut.gif?raw=true" alt="motto" />
 </div>  
