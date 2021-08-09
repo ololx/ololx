@@ -46,7 +46,7 @@
     <img display="block" align="left"  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ololx&langs_count=8&layout=compact" alt="languages"/>
     <img display="block" align="right" width="25%" src="https://github.com/ololx/ololx/blob/master/MottoOfTheDay.gif?raw=true" alt="motto" />
     <img display="block" align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ololx" alt="streaks"/>
-    <img display="block" align="left" width="18%" src="https://github.com/ololx/ololx/blob/master/CoffeCup.gif?raw=true" alt="cofee" />
+    <img display="block" align="left" width="26%" src="https://github.com/ololx/ololx/blob/master/CoffeCup.gif?raw=true" alt="cofee" />
     <img display="block" align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=ololx&show_icons=true&count_private=true" alt="general" />
     <img display="block" align="right" width="29%" src="https://github.com/ololx/ololx/blob/master/NeonDonut.gif?raw=true" alt="motto" />
 </div>  
