@@ -6,8 +6,8 @@
   
 <h3 align="center">I'm Alexander, PhD in physics and mathematics and a full-time java - developer 👨‍💻 </h3>  
 
-<details close>
-  <summary>expand</summary> 
+<details open>
+  <summary>Summary</summary> 
   
 - 🔭 I'm currently working in Innopolis
   
@@ -18,6 +18,7 @@
 - ⚡ Fun fact: I use tabs over spaces
 </details>  
 
+<h2 align="left">Quick stats</h2>
 <div align="center" width="100%">
   <img align="left"  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ololx&cache_seconds=1800&langs_count=8&hide=NSIS&layout=compact&theme=default&custom_title=Top Languages Used" alt="languages"/>
     <img align="right" width="25%" src="https://github.com/ololx/ololx/blob/master/MottoOfTheDay.gif?raw=true" alt="motto" />
