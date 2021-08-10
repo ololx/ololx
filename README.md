@@ -6,8 +6,8 @@
   
 <h3 align="center">I'm Alexander, PhD in physics and mathematics and a full-time java - developer 👨‍💻 </h3>  
 
-<details open>
-  <summary>Summary</summary> 
+<details close>
+  <summary>expand</summary> 
   
 - 🔭 I'm currently working in Innopolis
   
