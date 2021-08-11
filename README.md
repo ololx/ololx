@@ -77,10 +77,10 @@
       <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=restful-test-instances" alt="restful-test-instances"/>
     </a>
     <a href="https://github.com/innopolis-university-java-team/spring-security-instances" target="_blank">
-      <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=spring-security-instances" alt="spring-security-instances"/>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=spring-security-instances" alt="spring-security-instances"/>
     </a>
     <a href="https://github.com/innopolis-university-java-team/restful-querying-instances" target="_blank">
-      <img align="right"  width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=restful-querying-instances" alt="restful-querying-instances"/>
+      <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=restful-querying-instances" alt="restful-querying-instances"/>
     </a>
     <img align="center" width="100%"/>
   </div>
