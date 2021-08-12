@@ -58,6 +58,7 @@
 <h2 align="left">Projects Quick Walkthrough</h2>
 <details>
   <summary>Samples And Instances</summary>
+    <div width="100%">
     <a href="https://github.com/innopolis-university-java-team/spring-boot-metrics-instances" target="_blank">
       <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=spring-boot-metrics-instances" alt="spring-boot-metrics-instances"/>
     </a>
@@ -90,6 +91,7 @@
 </details>
 <details>
   <summary>Simple Tools</summary>
+  <div width="100%">
     <a href="https://github.com/ololx/quick-symlink" target="_blank">
       <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ololx&repo=quick-symlink" alt="quick-symlink"/>
     </a>
