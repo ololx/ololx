@@ -54,7 +54,7 @@
 <details>
   <summary>Samples And Instances</summary>
     <div width="100%">
-      <p></p>
+      <p>These are my projects that I prepared for participation in the Innopolis University Java Team meetings (https://github.com/innopolis-university-java-team) in order to unify the technology stack and share experience.</p>
     </div>
     <div width="100%">
     <a href="https://github.com/innopolis-university-java-team/spring-boot-metrics-instances" target="_blank">
