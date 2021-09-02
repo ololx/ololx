@@ -14,39 +14,6 @@
 - ⚡ Fun fact: I use tabs over spaces<br/>
 </details>  
 
-<h2 align="left">Connect with me</h2>
-<div align="center" width="100%">
-  <a href="https://linkedin.com/in/alexander-kropotin-a5107a195" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
-  </a>
-  <a href="https://www.facebook.com/alexandr.kropotin.9" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt=facebook/>
-  </a>
-  <a href="https://vk.com/ololx" target="_blank">
-    <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt=vk/>
-  </a>
-  <a href="https://t.me/help_us_Harry" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt=telegram/>
-  </a>
-  <a href="https://icq.im/ololx" target="_blank">
-    <img src="https://img.shields.io/badge/icq_new-F2F4F9?style=for-the-badge&logo=icq&logoColor=79FA4C&labelColor=000000" alt=icq style="margin-bottom: 5px;" />
-  </a>
-</div> 
-
----
-
-<div align="center" width="100%" backgroung-color="grey">
-  <img align="left"  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ololx&cache_seconds=1800&langs_count=8&hide=NSIS&layout=compact&theme=default&custom_title=Top Languages Used" alt="languages"/>
-    <img align="right" width="25%" src="https://github.com/ololx/ololx/blob/master/MottoOfTheDay.gif?raw=true" alt="motto" />
-    <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ololx&cache_seconds=1800&theme=default" alt="streaks"/>
-    <img align="left" width="26%" src="https://github.com/ololx/ololx/blob/master/CoffeCup.gif?raw=true" alt="cofee" />
-    <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=ololx&cache_seconds=1800&show_icons=true&count_private=true&include_all_commits=true&theme=default&custom_title=Some Github Stats" alt="general" />
-    <img align="right" width="29%" src="https://github.com/ololx/ololx/blob/master/NeonDonut.gif?raw=true" alt="motto" />
-    <img align="center" width="100%"/>
-</div>
-
----
-
 <h2 align="left">Projects Quick Walkthrough</h2>
 <details>
   <summary>Samples And Instances</summary>
@@ -99,3 +66,36 @@
     <img align="center" width="100%"/>
   </div>
 </details> 
+
+---
+
+<div align="center" width="100%" backgroung-color="grey">
+  <img align="left"  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ololx&cache_seconds=1800&langs_count=8&hide=NSIS&layout=compact&theme=default&custom_title=Top Languages Used" alt="languages"/>
+    <img align="right" width="25%" src="https://github.com/ololx/ololx/blob/master/MottoOfTheDay.gif?raw=true" alt="motto" />
+    <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ololx&cache_seconds=1800&theme=default" alt="streaks"/>
+    <img align="left" width="26%" src="https://github.com/ololx/ololx/blob/master/CoffeCup.gif?raw=true" alt="cofee" />
+    <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=ololx&cache_seconds=1800&show_icons=true&count_private=true&include_all_commits=true&theme=default&custom_title=Some Github Stats" alt="general" />
+    <img align="right" width="29%" src="https://github.com/ololx/ololx/blob/master/NeonDonut.gif?raw=true" alt="motto" />
+    <img align="center" width="100%"/>
+</div>
+
+---
+
+<h2 align="left">Connect with me</h2>
+<div align="center" width="100%">
+  <a href="https://linkedin.com/in/alexander-kropotin-a5107a195" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
+  </a>
+  <a href="https://www.facebook.com/alexandr.kropotin.9" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt=facebook/>
+  </a>
+  <a href="https://vk.com/ololx" target="_blank">
+    <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt=vk/>
+  </a>
+  <a href="https://t.me/help_us_Harry" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt=telegram/>
+  </a>
+  <a href="https://icq.im/ololx" target="_blank">
+    <img src="https://img.shields.io/badge/icq_new-F2F4F9?style=for-the-badge&logo=icq&logoColor=79FA4C&labelColor=000000" alt=icq style="margin-bottom: 5px;" />
+  </a>
+</div> 
