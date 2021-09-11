@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I use tabs over spaces<br/>
 </details>  
 
-<h2 align="left">Projects Quick Walkthrough</h2>
+<h2 align="left"><a href="https://ololx.github.io" target="_blank">Projects Quick Walkthrough</a></h2>
 <details>
   <summary>Samples And Instances</summary>
     <div width="100%">
@@ -35,8 +35,8 @@
       <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=orm-patterns-instances" alt="orm-patterns-instances"/>
     </a>
     <img align="center" width="100%"/>
-    <a href="https://github.com/innopolis-university-java-team/spring-cloud-stream-instances" target="_blank">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=spring-cloud-stream-instances" alt="spring-cloud-stream-instances"/>
+    <a href="https://github.com/innopolis-university-java-team/change-data-capture-instances" target="_blank">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=change-data-capture-instances" alt="change-data-capture-instances"/>
     </a>
     <a href="https://github.com/innopolis-university-java-team/restful-test-instances" target="_blank">
       <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=restful-test-instances" alt="restful-test-instances"/>
@@ -47,6 +47,10 @@
     </a>
     <a href="https://github.com/innopolis-university-java-team/restful-querying-instances" target="_blank">
       <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=restful-querying-instances" alt="restful-querying-instances"/>
+    </a>
+    <img align="center" width="100%"/>
+    <a href="https://github.com/innopolis-university-java-team/spring-cloud-stream-instances" target="_blank">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=spring-cloud-stream-instances" alt="spring-cloud-stream-instances"/>
     </a>
     <img align="center" width="100%"/>
   </div>
