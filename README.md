@@ -68,6 +68,13 @@
       <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ololx&repo=sbc-bitpool-expander" alt="restful-updating-instances"/>
     </a>
     <img align="center" width="100%"/>
+    <a href="https://github.com/ololx/birthday-cake" target="_blank">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ololx&repo=birthday-cake" alt="birthday-cake"/>
+    </a>
+    <a href="https://github.com/ololx/create-symlink" target="_blank">
+      <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ololx&repo=create-symlink" alt="create-symlink"/>
+    </a>
+    <img align="center" width="100%"/>
   </div>
 </details> 
 
