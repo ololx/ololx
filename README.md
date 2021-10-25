@@ -21,36 +21,36 @@
       <p>These are my projects that I prepared for participation in the Innopolis University Java Team meetings (https://github.com/innopolis-university-java-team) in order to unify the technology stack and share experience.</p>
     </div>
     <div width="100%">
-    <a href="https://github.com/innopolis-university-java-team/spring-boot-metrics-instances" target="_blank">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=spring-boot-metrics-instances" alt="spring-boot-metrics-instances"/>
+    <a width="40%" href="https://github.com/innopolis-university-java-team/spring-boot-metrics-instances" target="_blank">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=spring-boot-metrics-instances&hide_border=true" alt="spring-boot-metrics-instances"/>
     </a>
-    <a href="https://github.com/innopolis-university-java-team/spring-boot-distributed-tracing-instances" target="_blank">
-      <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=spring-boot-distributed-tracing-instances" alt="spring-boot-distributed-tracing-instances"/>
-    </a>
-    <img align="center" width="100%"/>
-    <a href="https://github.com/innopolis-university-java-team/restful-updating-instances" target="_blank">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=restful-updating-instances" alt="restful-updating-instances"/>
-    </a>
-    <a href="https://github.com/innopolis-university-java-team/orm-patterns-instances" target="_blank">
-      <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=orm-patterns-instances" alt="orm-patterns-instances"/>
+    <a width="40%" href="https://github.com/innopolis-university-java-team/spring-boot-distributed-tracing-instances" target="_blank">
+      <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=spring-boot-distributed-tracing-instances&hide_border=true" alt="spring-boot-distributed-tracing-instances"/>
     </a>
     <img align="center" width="100%"/>
-    <a href="https://github.com/innopolis-university-java-team/change-data-capture-instances" target="_blank">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=change-data-capture-instances" alt="change-data-capture-instances"/>
+    <a width="40%" href="https://github.com/innopolis-university-java-team/restful-updating-instances" target="_blank">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=restful-updating-instances&hide_border=true" alt="restful-updating-instances"/>
     </a>
-    <a href="https://github.com/innopolis-university-java-team/restful-test-instances" target="_blank">
-      <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=restful-test-instances" alt="restful-test-instances"/>
-    </a>
-    <img align="center" width="100%"/>
-    <a href="https://github.com/innopolis-university-java-team/spring-security-instances" target="_blank">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=spring-security-instances" alt="spring-security-instances"/>
-    </a>
-    <a href="https://github.com/innopolis-university-java-team/restful-querying-instances" target="_blank">
-      <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=restful-querying-instances" alt="restful-querying-instances"/>
+    <a width="40%" href="https://github.com/innopolis-university-java-team/orm-patterns-instances" target="_blank">
+      <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=orm-patterns-instances&hide_border=true" alt="orm-patterns-instances"/>
     </a>
     <img align="center" width="100%"/>
-    <a href="https://github.com/innopolis-university-java-team/spring-cloud-stream-instances" target="_blank">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=spring-cloud-stream-instances" alt="spring-cloud-stream-instances"/>
+    <a width="40%" href="https://github.com/innopolis-university-java-team/change-data-capture-instances" target="_blank">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=change-data-capture-instances&hide_border=true" alt="change-data-capture-instances"/>
+    </a>
+    <a width="40%" href="https://github.com/innopolis-university-java-team/restful-test-instances" target="_blank">
+      <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=restful-test-instances&hide_border=true" alt="restful-test-instances"/>
+    </a>
+    <img align="center" width="100%"/>
+    <a width="40%" href="https://github.com/innopolis-university-java-team/spring-security-instances" target="_blank">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=spring-security-instances&hide_border=true" alt="spring-security-instances"/>
+    </a>
+    <a width="40%" href="https://github.com/innopolis-university-java-team/restful-querying-instances" target="_blank">
+      <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=restful-querying-instances&hide_border=true" alt="restful-querying-instances"/>
+    </a>
+    <img align="center" width="100%"/>
+    <a width="40%" href="https://github.com/innopolis-university-java-team/spring-cloud-stream-instances" target="_blank">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=spring-cloud-stream-instances&hide_border=true" alt="spring-cloud-stream-instances"/>
     </a>
     <img align="center" width="100%"/>
   </div>
@@ -61,18 +61,18 @@
     <p>This is a some of simple tools that I initially implemented with a focus on my needs and use in my daily life.</p>
   </div>
   <div width="100%">
-    <a href="https://github.com/ololx/quick-symlink" target="_blank">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ololx&repo=quick-symlink" alt="quick-symlink"/>
+    <a width="40%" href="https://github.com/ololx/quick-symlink" target="_blank">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ololx&repo=quick-symlink&hide_border=true" alt="quick-symlink"/>
     </a>
-    <a href="https://github.com/ololx/sbc-bitpool-expander" target="_blank">
-      <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ololx&repo=sbc-bitpool-expander" alt="restful-updating-instances"/>
+    <a width="40%" href="https://github.com/ololx/sbc-bitpool-expander" target="_blank">
+      <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ololx&repo=sbc-bitpool-expander&hide_border=true" alt="restful-updating-instances"/>
     </a>
     <img align="center" width="100%"/>
-    <a href="https://github.com/ololx/birthday-cake" target="_blank">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ololx&repo=birthday-cake" alt="birthday-cake"/>
+    <a width="40%" href="https://github.com/ololx/birthday-cake" target="_blank">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ololx&repo=birthday-cake&hide_border=true" alt="birthday-cake"/>
     </a>
-    <a href="https://github.com/ololx/create-symlink" target="_blank">
-      <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ololx&repo=create-symlink" alt="create-symlink"/>
+    <a width="40%" href="https://github.com/ololx/create-symlink" target="_blank">
+      <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ololx&repo=create-symlink&hide_border=true" alt="create-symlink"/>
     </a>
     <img align="center" width="100%"/>
   </div>
