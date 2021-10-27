@@ -61,17 +61,17 @@
     <p>This is a some of simple tools that I initially implemented with a focus on my needs and use in my daily life.</p>
   </div>
   <div width="100%">
-    <a width="40%" href="https://github.com/ololx/quick-symlink" target="_blank">
+    <a width="36%" href="https://github.com/ololx/quick-symlink" target="_blank">
       <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ololx&repo=quick-symlink&hide_border=true" alt="quick-symlink"/>
     </a>
-    <a width="40%" href="https://github.com/ololx/sbc-bitpool-expander" target="_blank">
+    <a width="36%" href="https://github.com/ololx/sbc-bitpool-expander" target="_blank">
       <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ololx&repo=sbc-bitpool-expander&hide_border=true" alt="restful-updating-instances"/>
     </a>
     <img align="center" width="100%"/>
-    <a width="40%" href="https://github.com/ololx/birthday-cake" target="_blank">
+    <a width="36%" href="https://github.com/ololx/birthday-cake" target="_blank">
       <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ololx&repo=birthday-cake&hide_border=true" alt="birthday-cake"/>
     </a>
-    <a width="40%" href="https://github.com/ololx/create-symlink" target="_blank">
+    <a width="36%" href="https://github.com/ololx/create-symlink" target="_blank">
       <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ololx&repo=create-symlink&hide_border=true" alt="create-symlink"/>
     </a>
     <img align="center" width="100%"/>
