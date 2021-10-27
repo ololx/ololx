@@ -24,32 +24,32 @@
     <a width="36%" href="https://github.com/innopolis-university-java-team/spring-boot-metrics-instances" target="_blank">
       <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=spring-boot-metrics-instances&hide_border=true" alt="spring-boot-metrics-instances"/>
     </a>
-    <a width="40%" href="https://github.com/innopolis-university-java-team/spring-boot-distributed-tracing-instances" target="_blank">
+    <a width="36%" href="https://github.com/innopolis-university-java-team/spring-boot-distributed-tracing-instances" target="_blank">
       <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=spring-boot-distributed-tracing-instances&hide_border=true" alt="spring-boot-distributed-tracing-instances"/>
     </a>
     <img align="center" width="100%"/>
-    <a width="40%" href="https://github.com/innopolis-university-java-team/restful-updating-instances" target="_blank">
+    <a width="36%" href="https://github.com/innopolis-university-java-team/restful-updating-instances" target="_blank">
       <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=restful-updating-instances&hide_border=true" alt="restful-updating-instances"/>
     </a>
-    <a width="40%" href="https://github.com/innopolis-university-java-team/orm-patterns-instances" target="_blank">
+    <a width="36%" href="https://github.com/innopolis-university-java-team/orm-patterns-instances" target="_blank">
       <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=orm-patterns-instances&hide_border=true" alt="orm-patterns-instances"/>
     </a>
     <img align="center" width="100%"/>
-    <a width="40%" href="https://github.com/innopolis-university-java-team/change-data-capture-instances" target="_blank">
+    <a width="36%" href="https://github.com/innopolis-university-java-team/change-data-capture-instances" target="_blank">
       <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=change-data-capture-instances&hide_border=true" alt="change-data-capture-instances"/>
     </a>
-    <a width="40%" href="https://github.com/innopolis-university-java-team/restful-test-instances" target="_blank">
+    <a width="36%" href="https://github.com/innopolis-university-java-team/restful-test-instances" target="_blank">
       <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=restful-test-instances&hide_border=true" alt="restful-test-instances"/>
     </a>
     <img align="center" width="100%"/>
-    <a width="40%" href="https://github.com/innopolis-university-java-team/spring-security-instances" target="_blank">
+    <a width="36%" href="https://github.com/innopolis-university-java-team/spring-security-instances" target="_blank">
       <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=spring-security-instances&hide_border=true" alt="spring-security-instances"/>
     </a>
-    <a width="40%" href="https://github.com/innopolis-university-java-team/restful-querying-instances" target="_blank">
+    <a width="36%" href="https://github.com/innopolis-university-java-team/restful-querying-instances" target="_blank">
       <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=restful-querying-instances&hide_border=true" alt="restful-querying-instances"/>
     </a>
     <img align="center" width="100%"/>
-    <a width="40%" href="https://github.com/innopolis-university-java-team/spring-cloud-stream-instances" target="_blank">
+    <a width="36%" href="https://github.com/innopolis-university-java-team/spring-cloud-stream-instances" target="_blank">
       <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=spring-cloud-stream-instances&hide_border=true" alt="spring-cloud-stream-instances"/>
     </a>
     <img align="center" width="100%"/>
