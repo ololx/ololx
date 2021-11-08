@@ -22,35 +22,35 @@
     </div>
     <div width="100%">
     <a href="https://github.com/innopolis-university-java-team/spring-boot-metrics-instances" target="_blank">
-      <img width="44%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=spring-boot-metrics-instances&hide_border=true" alt="spring-boot-metrics-instances"/>
+      <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=spring-boot-metrics-instances&hide_border=true" alt="spring-boot-metrics-instances"/>
     </a>
     <a href="https://github.com/innopolis-university-java-team/spring-boot-distributed-tracing-instances" target="_blank">
-      <img width="44%" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=spring-boot-distributed-tracing-instances&hide_border=true" alt="spring-boot-distributed-tracing-instances"/>
+      <img width="47%" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=spring-boot-distributed-tracing-instances&hide_border=true" alt="spring-boot-distributed-tracing-instances"/>
     </a>
     <img align="center" width="100%"/>
     <a href="https://github.com/innopolis-university-java-team/restful-updating-instances" target="_blank">
-      <img width="44%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=restful-updating-instances&hide_border=true" alt="restful-updating-instances"/>
+      <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=restful-updating-instances&hide_border=true" alt="restful-updating-instances"/>
     </a>
     <a href="https://github.com/innopolis-university-java-team/orm-patterns-instances" target="_blank">
-      <img width="44%"align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=orm-patterns-instances&hide_border=true" alt="orm-patterns-instances"/>
+      <img width="47%"align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=orm-patterns-instances&hide_border=true" alt="orm-patterns-instances"/>
     </a>
     <img align="center" width="100%"/>
     <a href="https://github.com/innopolis-university-java-team/change-data-capture-instances" target="_blank">
-      <img width="44%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=change-data-capture-instances&hide_border=true" alt="change-data-capture-instances"/>
+      <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=change-data-capture-instances&hide_border=true" alt="change-data-capture-instances"/>
     </a>
     <a href="https://github.com/innopolis-university-java-team/restful-test-instances" target="_blank">
-      <img width="44%" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=restful-test-instances&hide_border=true" alt="restful-test-instances"/>
+      <img width="47%" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=restful-test-instances&hide_border=true" alt="restful-test-instances"/>
     </a>
     <img align="center" width="100%"/>
     <a href="https://github.com/innopolis-university-java-team/spring-security-instances" target="_blank">
-      <img width="44%"align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=spring-security-instances&hide_border=true" alt="spring-security-instances"/>
+      <img width="47%"align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=spring-security-instances&hide_border=true" alt="spring-security-instances"/>
     </a>
     <a href="https://github.com/innopolis-university-java-team/restful-querying-instances" target="_blank">
-      <img width="44%" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=restful-querying-instances&hide_border=true" alt="restful-querying-instances"/>
+      <img width="47%" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=restful-querying-instances&hide_border=true" alt="restful-querying-instances"/>
     </a>
     <img align="center" width="100%"/>
     <a href="https://github.com/innopolis-university-java-team/spring-cloud-stream-instances" target="_blank">
-      <img width="44%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=spring-cloud-stream-instances&hide_border=true" alt="spring-cloud-stream-instances"/>
+      <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=spring-cloud-stream-instances&hide_border=true" alt="spring-cloud-stream-instances"/>
     </a>
     <img align="center" width="100%"/>
   </div>
@@ -62,17 +62,21 @@
   </div>
   <div width="100%">
     <a href="https://github.com/ololx/quick-symlink" target="_blank">
-      <img width="44%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ololx&repo=quick-symlink&hide_border=true" alt="quick-symlink"/>
+      <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ololx&repo=quick-symlink&hide_border=true" alt="quick-symlink"/>
     </a>
     <a href="https://github.com/ololx/sbc-bitpool-expander" target="_blank">
-      <img width="44%" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ololx&repo=sbc-bitpool-expander&hide_border=true" alt="restful-updating-instances"/>
+      <img width="47%" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ololx&repo=sbc-bitpool-expander&hide_border=true" alt="sbc-bitpool-expander"/>
     </a>
     <img align="center" width="100%"/>
     <a href="https://github.com/ololx/birthday-cake" target="_blank">
-      <img width="44%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ololx&repo=birthday-cake&hide_border=true" alt="birthday-cake"/>
+      <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ololx&repo=birthday-cake&hide_border=true" alt="birthday-cake"/>
     </a>
+    <a href="https://github.com/ololx/empty-new-file" target="_blank">
+      <img width="47%" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ololx&repo=empty-new-file&hide_border=true" alt="empty-new-file"/>
+    </a>  
+      <img align="center" width="100%"/>
     <a href="https://github.com/ololx/create-symlink" target="_blank">
-      <img width="44%" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ololx&repo=create-symlink&hide_border=true" alt="create-symlink"/>
+      <img width="47%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ololx&repo=create-symlink&hide_border=true" alt="create-symlink"/>
     </a>
     <img align="center" width="100%"/>
   </div>
@@ -81,11 +85,11 @@
 ---
 
 <div align="center" width="100%" backgroung-color="grey">
-  <img align="left"  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ololx&cache_seconds=1800&langs_count=8&hide=NSIS&layout=compact&theme=default&custom_title=Top Languages Used" alt="languages"/>
+  <img align="left"  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ololx&cache_seconds=1800&langs_count=8&hide=NSIS&layout=compact&theme=default&custom_title=Top Languages Used&hide_border=true" alt="languages"/>
     <img align="right" width="25%" src="https://github.com/ololx/ololx/blob/master/MottoOfTheDay.gif?raw=true" alt="motto" />
-    <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ololx&cache_seconds=1800&theme=default" alt="streaks"/>
+    <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ololx&cache_seconds=1800&theme=default&hide_border=true" alt="streaks"/>
     <img align="left" width="26%" src="https://github.com/ololx/ololx/blob/master/CoffeCup.gif?raw=true" alt="cofee" />
-    <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=ololx&cache_seconds=1800&show_icons=true&count_private=true&include_all_commits=true&theme=default&custom_title=Some Github Stats" alt="general" />
+    <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=ololx&cache_seconds=1800&show_icons=true&count_private=true&include_all_commits=true&theme=default&custom_title=Some Github Stats&hide_border=true" alt="general" />
     <img align="right" width="29%" src="https://github.com/ololx/ololx/blob/master/NeonDonut.gif?raw=true" alt="motto" />
     <img align="center" width="100%"/>
 </div>
