@@ -32,7 +32,7 @@
       <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=restful-updating-instances&hide_border=true" alt="restful-updating-instances"/>
     </a>
     <a href="https://github.com/innopolis-university-java-team/orm-patterns-instances" target="_blank">
-      <img width="47%"align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=orm-patterns-instances&hide_border=true" alt="orm-patterns-instances"/>
+      <img width="45%"align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=orm-patterns-instances&hide_border=true" alt="orm-patterns-instances"/>
     </a>
     <img align="center" width="100%"/>
     <a href="https://github.com/innopolis-university-java-team/change-data-capture-instances" target="_blank">
