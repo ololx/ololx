@@ -153,6 +153,17 @@
             </a>
           </td>
         </tr>
+        <tr>
+          <td>
+            <img src="https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9"/>
+            <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/> 
+          </td>
+          <td>
+            <a href="https://github.com/innopolis-university-java-team/spring-boot-distributed-tracing-instances" target="_blank">
+              <img src="https://github-readme-stats.vercel.app/api/pin/?username=innopolis-university-java-team&repo=metrics-grafana&hide_border=true" alt="metrics-grafana"/>
+            </a>
+          </td>
+        </tr>
       </table>
   </div>
 </details>
