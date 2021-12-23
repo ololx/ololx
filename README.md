@@ -1,8 +1,32 @@
 <div align="right">
-  <img src="https://komarev.com/ghpvc/?username=ololx&&style=flat-square"/>
-</div> 
-
+  <a href="https://yhype.me/dashboard" target="_blank">
+      <img src="https://komarev.com/ghpvc/?username=ololx&style=flat&color=orange" alt="profile views"/>
+  </a>
+  <a href="https://github.com/ololx" target="_blank">
+      <img src="https://img.shields.io/github/stars/ololx?affiliations=OWNER%2CCOLLABORATOR&color=yellow&label=Total stars&logo=github&logoColor=yellow" alt="total stars earned"/>
+  </a>
+  <a href="https://github.com/ololx" target="_blank">
+      <img src="https://img.shields.io/github/followers/ololx?color=brightgreen&label=Total%20followers&logo=github&logoColor=brightgreen" alt="total stars earned"/>
+  </a>
+</div>
 <h1 align="center">Hi 👋, everyone</h1>
+<div align="center" width="100%">
+  <a href="https://linkedin.com/in/alexander-kropotin-a5107a195" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt=linkedin/>
+  </a>
+  <a href="https://www.facebook.com/alexandr.kropotin.9" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=flat&logo=facebook&logoColor=white" alt=facebook/>
+  </a>
+  <a href="https://vk.com/ololx" target="_blank">
+    <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=flat&logo=vk&logoColor=white" alt=vk/>
+  </a>
+  <a href="https://t.me/help_us_Harry" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt=telegram/>
+  </a>
+  <a href="https://icq.im/ololx" target="_blank">
+    <img src="https://img.shields.io/badge/icq_new-F2F4F9?style=flat&logo=icq&logoColor=79FA4C&labelColor=000000" alt=icq style="margin-bottom: 5px;" />
+  </a>
+</div>   
   
 <h3 align="center">I'm Alexander, PhD in physics and mathematics and a full-time java - developer 👨‍💻 </h3>  
 
@@ -11,8 +35,8 @@
 - 🔭 I'm currently working in Innopolis<br/>
 - 🌱 I'm currently learning Java back-end practices & tricks<br/>
 - ❓ Ask me about anything related to OWL-DL ontologies and Description Logics<br/> 
-- ⚡ Fun fact: I use tabs over spaces<br/>
-</details>  
+- ⚡ Fun fact: I use tabs over spaces<br/>   
+</details>
 
 <h2 align="left"><a href="https://ololx.github.io" target="_blank">Projects Quick Walkthrough</a></h2>
 <details>
@@ -205,24 +229,3 @@
     <img align="right" width="29%" src="https://github.com/ololx/ololx/blob/master/NeonDonut.gif?raw=true" alt="motto" />
     <img align="center" width="100%"/>
 </div>
-
----
-
-<h2 align="left">Connect with me</h2>
-<div align="center" width="100%">
-  <a href="https://linkedin.com/in/alexander-kropotin-a5107a195" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin/>
-  </a>
-  <a href="https://www.facebook.com/alexandr.kropotin.9" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white" alt=facebook/>
-  </a>
-  <a href="https://vk.com/ololx" target="_blank">
-    <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white" alt=vk/>
-  </a>
-  <a href="https://t.me/help_us_Harry" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt=telegram/>
-  </a>
-  <a href="https://icq.im/ololx" target="_blank">
-    <img src="https://img.shields.io/badge/icq_new-F2F4F9?style=for-the-badge&logo=icq&logoColor=79FA4C&labelColor=000000" alt=icq style="margin-bottom: 5px;" />
-  </a>
-</div> 
