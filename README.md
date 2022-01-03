@@ -220,6 +220,8 @@
 
 ---
 
+![](https://github.com/ololx/ololx/raw/output/github-contribution-grid-snake.svg)
+
 <div align="center" width="100%" backgroung-color="grey">
   <img align="left"  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ololx&cache_seconds=1800&langs_count=8&hide=NSIS&layout=compact&theme=default&custom_title=Top Languages Used&hide_border=true" alt="languages"/>
     <img align="right" width="25%" src="https://github.com/ololx/ololx/blob/master/MottoOfTheDay.gif?raw=true" alt="motto" />
