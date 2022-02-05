@@ -9,7 +9,9 @@
       <img src="https://img.shields.io/github/followers/ololx?color=brightgreen&label=Total%20followers&logo=github&logoColor=brightgreen" alt="total stars earned"/>
   </a>
 </div>
-<h1 align="center">Hi 👋, everyone</h1>
+
+<h1 align="center">Hi there👋, I'm Alexander</h1>
+<h3 align="center">PhD in physics and mathematics and a full-time java - developer 👨‍💻 </h3>  
 
 <div align="center" width="100%">
   <a href="https://linkedin.com/in/alexander-kropotin-a5107a195" target="_blank">
@@ -29,7 +31,7 @@
   </a>
 </div>   
 
-<h3 align="center">I'm Alexander, PhD in physics and mathematics and a full-time java - developer 👨‍💻 </h3>  
+
 
 <details open>
   <summary>Summary</summary> 
