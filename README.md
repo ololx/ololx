@@ -1,19 +1,20 @@
 <div align="right">
-  <a href="https://yhype.me/dashboard" target="_blank">
-      <img src="https://komarev.com/ghpvc/?username=ololx&style=flat&color=orange" alt="profile views"/>
-  </a>
-  <a href="https://github.com/ololx" target="_blank">
-      <img src="https://img.shields.io/github/stars/ololx?affiliations=OWNER%2CCOLLABORATOR&color=yellow&label=Total%20stars&logo=github&logoColor=yellow" alt="total stars earned"/>
-  </a>
-  <a href="https://github.com/ololx" target="_blank">
-      <img src="https://img.shields.io/github/followers/ololx?color=brightgreen&label=Total%20followers&logo=github&logoColor=brightgreen" alt="total stars earned"/>
-  </a>
+    <a href="https://yhype.me/dashboard" target="_blank">
+        <img src="https://komarev.com/ghpvc/?username=ololx&style=flat&color=orange" alt="profile views"/>
+    </a>
+    <a href="https://github.com/ololx" target="_blank">
+        <img src="https://img.shields.io/github/stars/ololx?affiliations=OWNER%2CCOLLABORATOR&color=yellow&label=Total%20stars&logo=github&logoColor=yellow" alt="total stars earned"/>
+    </a>
+    <a href="https://github.com/ololx" target="_blank">
+        <img src="https://img.shields.io/github/followers/ololx?color=brightgreen&label=Total%20followers&logo=github&logoColor=brightgreen" alt="total stars earned"/>
+    </a>
 </div>
 
 <h1 align="center">Hi there👋, I'm Alexander</h1>
-<h3 align="center">PhD in physics and mathematics and a full-time java - developer 👨‍💻 </h3>  
+<h3 align="center">PhD in physics and mathematics and a full-time java - developer 👨‍💻 </h3>
 
 <div align="center" width="100%">
+  <h5>How to reach me?</h5>
   <a href="https://linkedin.com/in/alexander-kropotin-a5107a195" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt=linkedin/>
   </a>
@@ -31,11 +32,9 @@
   </a>
 </div>   
 
-
-
 <details open>
   <summary>Summary</summary> 
-- 🔭 I'm currently working in Innopolis<br/>
+- 🔭 I'm currently working on my <a href="https://ololx.github.io" target="_blank">pet projects</a><br/>
 - 🌱 I'm currently learning Java back-end practices & tricks<br/>
 - ❓ Ask me about anything related to OWL-DL ontologies and Description Logics<br/> 
 - ⚡ Fun fact: I use tabs over spaces<br/>   
@@ -275,7 +274,9 @@
 
 ---
 
-<div align="center" width="100%" backgroung-color="grey">
+<div align="center" width="100%">
+  <!--<img align="left" width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ololx&theme=github" alt="profile_card"/>
+  <img align="right" width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ololx&theme=github" alt="profile_card"/>-->
   <img align="left"  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ololx&cache_seconds=1800&langs_count=8&hide=NSIS&layout=compact&theme=default&custom_title=Top Languages Used&hide_border=true" alt="languages"/>
     <img align="right" width="25%" src="https://github.com/ololx/ololx/blob/master/MottoOfTheDay.gif?raw=true" alt="motto" />
     <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ololx&cache_seconds=1800&theme=default&hide_border=true" alt="streaks"/>
