@@ -14,7 +14,6 @@
 <h3 align="center">PhD in physics and mathematics and a full-time java - developer 👨‍💻 </h3>
 
 <div align="center" width="100%">
-  <h5>How to reach me?</h5>
   <a href="https://linkedin.com/in/alexander-kropotin-a5107a195" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt=linkedin/>
   </a>
@@ -24,6 +23,9 @@
   <a href="https://vk.com/ololx" target="_blank">
     <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=flat&logo=vk&logoColor=white" alt=vk/>
   </a>
+  <a href="mailto: ololx@icloud.com" target="_blank">
+    <img src="https://img.shields.io/badge/mail-F2F4F9?style=flat&logo=icloud" alt=icloud style="margin-bottom: 5px;" />
+  </a>  
   <a href="https://t.me/help_us_Harry" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt=telegram/>
   </a>
