@@ -279,11 +279,14 @@
 <div align="center" width="100%">
   <!--<img align="left" width="55%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ololx&theme=github" alt="profile_card"/>
   <img align="right" width="35%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ololx&theme=github" alt="profile_card"/>-->
-  <img align="left"  width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ololx&cache_seconds=1800&langs_count=8&hide=NSIS&layout=compact&theme=default&custom_title=Top Languages Used&hide_border=true" alt="languages"/>
+  <img align="left"  width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ololx&cache_seconds=1800&langs_count=8&hide=NSIS&layout=compact&theme=default&custom_title=Top Languages Used&hide_border=true" alt="languages"/>
     <img align="right" width="25%" src="https://github.com/ololx/ololx/blob/master/MottoOfTheDay.gif?raw=true" alt="motto" />
-    <img align="right" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ololx&cache_seconds=1800&theme=default&hide_border=true" alt="streaks"/>
-    <img align="left" width="26%" src="https://github.com/ololx/ololx/blob/master/CoffeCup.gif?raw=true" alt="cofee" />
-    <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=ololx&cache_seconds=1800&show_icons=true&count_private=true&include_all_commits=true&theme=default&custom_title=Some Github Stats&hide_border=true" alt="general" />
-    <img align="right" width="29%" src="https://github.com/ololx/ololx/blob/master/NeonDonut.gif?raw=true" alt="motto" />
+    <img align="center" width="100%"/>
+    <img align="left" width="20%" src="https://github.com/ololx/ololx/blob/master/CoffeCup.gif?raw=true" alt="cofee" />
+    <img align="center" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=ololx&cache_seconds=1800&theme=default&hide_border=true" alt="streaks"/>
+    <img align="right" width="20%" src="https://github.com/ololx/ololx/blob/master/NeonDonut.gif?raw=true" alt="motto" />
+    <img align="center" width="100%"/>
+    <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=ololx&cache_seconds=1800&show_icons=true&count_private=true&include_all_commits=true&theme=default&custom_title=Some Github Stats&hide_border=true" alt="general" />
+    <img align="right" width="35%" src="https://leetcode-stats-six.vercel.app/api?username=ololx" alt="leetcode" />
     <img align="center" width="100%"/>
 </div>
