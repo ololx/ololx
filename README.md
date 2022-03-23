@@ -18,7 +18,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt=linkedin/>
   </a>
   <a href="https://www.facebook.com/alexandr.kropotin.9" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&style=flat&logo=facebook&logoColor=white" alt=facebook/>
+    <img src="https://img.shields.io/badge/the_facebook-%232E87FB.svg?&style=flat&logoColor=yellow&labelColor=yellow" alt=facebook/>
   </a>
   <a href="https://vk.com/ololx" target="_blank">
     <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=flat&logo=vk&logoColor=white" alt=vk/>
