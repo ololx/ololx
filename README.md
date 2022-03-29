@@ -10,7 +10,10 @@
     </a>
 </div>
 
+<img align="center" width="100%" src="https://github.com/ololx/ololx/raw/output/github-contribution-grid-snake.svg" alt="snake_contributions"/>
+
 <h1 align="center">Hi there👋, I'm Alexander</h1>
+
 <h3 align="center">PhD in physics and mathematics and a full-time java - developer 👨‍💻 </h3>
 
 <div align="center" width="100%">
@@ -41,8 +44,6 @@
 - ❓ Ask me about anything related to OWL-DL ontologies and Description Logics<br/> 
 - ⚡ Fun fact: I use tabs over spaces<br/>   
 </details>
-
-<img align="center" width="100%" src="https://github.com/ololx/ololx/raw/output/github-contribution-grid-snake.svg" alt="snake_contributions"/>
 
 <h2 align="left"><a href="https://ololx.github.io" target="_blank">Projects Quick Walkthrough</a></h2>
 <details>
