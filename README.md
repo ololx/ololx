@@ -279,7 +279,7 @@
 
 <div align="center" width="100%">
     <img width="100%"/>
-    <img align="left" wifth="45" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ololx&cache_seconds=1800&langs_count=8&hide=NSIS&layout=compact&theme=default&custom_title=Top Languages Used&hide_border=true" alt="languages"/>
+    <img align="left" wifth="40" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ololx&cache_seconds=1800&langs_count=8&hide=NSIS&layout=compact&theme=default&custom_title=Top Languages Used&hide_border=true" alt="languages"/>
     <img align="right" width="35%" src="https://github.com/ololx/ololx/blob/master/NeonDonut.gif?raw=true" alt="motto" />
     <!--<img align="right" width="25%" src="https://github.com/ololx/ololx/blob/master/MottoOfTheDay.gif?raw=true" alt="motto" />-->
     <img width="100%"/>
