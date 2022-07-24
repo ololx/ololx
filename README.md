@@ -3,7 +3,7 @@
         <img src="https://komarev.com/ghpvc/?username=ololx&style=flat&color=orange" alt="profile views"/>
     </a>
     <a href="https://github.com/ololx" target="_blank">
-        <img src="https://img.shields.io/github/stars/ololx?affiliations=OWNER%2CCOLLABORATOR&color=yellow&label=Total%20stars&logo=github&logoColor=yellow" alt="total stars earned"/>
+        <img src="https://img.shields.io/github/stars/ololx?affiliations=OWNER&color=yellow&label=Total%20stars&logo=github&logoColor=yellow" alt="total stars earned"/>
     </a>
     <a href="https://github.com/ololx" target="_blank">
         <img src="https://img.shields.io/github/followers/ololx?color=brightgreen&label=Total%20followers&logo=github&logoColor=brightgreen" alt="total stars earned"/>
