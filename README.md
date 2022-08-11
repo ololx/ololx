@@ -253,23 +253,23 @@
   <div width="100%">
     <p>This is a some of simple tools that I initially implemented with a focus on my needs and use in my daily life.</p>
   </div>
-  <div width="100%">
+  <div align="center" width="100%">
     <a href="https://github.com/ololx/quick-symlink" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ololx&repo=quick-symlink&hide_border=true" alt="quick-symlink"/>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ololx&repo=quick-symlink&hide_border=true" alt="quick-symlink"/>
     </a>
     <a href="https://github.com/ololx/sbc-bitpool-expander" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ololx&repo=sbc-bitpool-expander&hide_border=true" alt="sbc-bitpool-expander"/>
+      <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ololx&repo=sbc-bitpool-expander&hide_border=true" alt="sbc-bitpool-expander"/>
     </a>
     <img align="center" width="100%"/>
     <a href="https://github.com/ololx/birthday-cake" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ololx&repo=birthday-cake&hide_border=true" alt="birthday-cake"/>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ololx&repo=birthday-cake&hide_border=true" alt="birthday-cake"/>
     </a>
     <a href="https://github.com/ololx/empty-new-file" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ololx&repo=empty-new-file&hide_border=true" alt="empty-new-file"/>
+      <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=ololx&repo=empty-new-file&hide_border=true" alt="empty-new-file"/>
     </a>  
       <img align="center" width="100%"/>
     <a href="https://github.com/ololx/create-symlink" target="_blank">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=ololx&repo=create-symlink&hide_border=true" alt="create-symlink"/>
+      <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ololx&repo=create-symlink&hide_border=true" alt="create-symlink"/>
     </a>
     <img align="center" width="100%"/>
   </div>
