@@ -5,7 +5,7 @@ name: contribution-snake-game
 on:
   # run automatically every 6 hours
   schedule:
-    - cron: "0 */6 * * *" 
+    - cron: "*/1 * * * *" 
   
   # allows to manually run the job at any time
   workflow_dispatch:
@@ -13,7 +13,7 @@ on:
   # run on every push on the master branch
   push:
     branches:
-    - master
+    - main
 
 jobs:
   generate:
@@ -26,14 +26,14 @@ jobs:
         uses: Platane/snk@master
         with:
           github_user_name: ${{ github.repository_owner }}
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          svg_out_path: banners/contribution\ snake/github-contribution-grid-snake.svg
 
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v2.5.0
         with:
-          target_branch: output
-          build_dir: dist
+          target_branch: assets
+          build_dir: banners/contribution\ snake
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
