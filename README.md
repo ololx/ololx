@@ -10,7 +10,7 @@
     </a>
 </div>
 
-<img align="center" width="100%" src="https://github.com/ololx/ololx/raw/output/github-contribution-grid-snake.svg" alt="snake_contributions"/>
+<img align="center" width="100%" src="https://github.com/ololx/ololx/raw/assets/github-contribution-grid-snake.svg" alt="snake_contributions"/>
 
 <h1 align="center">Hi there👋, I'm Alexander</h1>
 
