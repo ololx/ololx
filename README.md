@@ -278,7 +278,7 @@
 ---
 
 <div align="center" width="100%">
-    <a href="https://gist.github.com/lifeparticle">
+    <a href="https://gist.github.com/ololx">
         <img height="30%" width="100%" src="https://gist-count.vercel.app/api?username=ololx">
     </a>
     <img align="left" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ololx&langs_count=8&hide=NSIS&layout=compact&theme=default&custom_title=Top%20Languages%20Used&hide_border=true" alt="languages"/>
