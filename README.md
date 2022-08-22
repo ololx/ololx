@@ -275,12 +275,13 @@
   </div>
 </details> 
 
----
-
 <div align="center" width="100%">
     <a href="https://gist.github.com/ololx">
         <img height="30%" width="100%" src="https://gist-count.vercel.app/api?username=ololx">
     </a>
+</div>    
+
+<div align="center" width="100%">
     <img align="left" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ololx&langs_count=8&hide=NSIS&layout=compact&theme=default&custom_title=Top%20Languages%20Used&hide_border=true" alt="languages"/>
     <img align="center" width="17%" src="https://github.com/ololx/ololx/blob/main/MottoOfTheDay.gif?raw=true" alt="motto" />
     <img align="right" width="25%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ololx&theme=nord_bright" alt="profile_card"/>
