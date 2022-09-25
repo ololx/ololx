@@ -46,6 +46,21 @@
 </details>
 
 <h2 align="left"><a href="https://ololx.github.io" target="_blank">Projects Quick Walkthrough</a></h2>
+<details open>
+<summary>Gamedev Trials</summary>
+  <div width="100%">
+    <p>This is a some of simple gamedev pet projects, which I created for education myself.</p>
+  </div>
+  <div align="left" width="100%">
+    <a href="https://github.com/ololx/plain-old-retro-shooter" target="_blank">
+      <img align="left" width="58%" src="https://github.com/ololx/plain-old-retro-shooter/raw/assets/plain-old-retro-shooter-demo-4.gif?raw=true" alt="plain-old-retro-shooter"/>
+    </a>
+    <a href="https://github.com/ololx/flappy-winny" target="_blank">
+      <img align="right" width="38%" src="https://github.com/ololx/flappy-vinny/raw/assets/demo/flappy-vinny-demo-1.gif?raw=true" alt="flappy-winny"/>
+    </a>
+    <img align="center" width="100%"/>
+  </div>
+</details> 
 <details>
   <summary>Samples And Instances</summary>
     <div width="100%">
@@ -248,7 +263,7 @@
       </table>
   </div>
 </details>
-<details>
+<details open>
   <summary>Simple Tools</summary>
   <div width="100%">
     <p>This is a some of simple tools that I initially implemented with a focus on my needs and use in my daily life.</p>
