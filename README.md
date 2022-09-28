@@ -51,16 +51,17 @@
   <div width="100%">
     <p>These are some simple gamedev pet projects, which I created for the achieving educational goals and fun =)</p>
   </div>
-  <div align="left" width="100%">
+  <div align="center" width="100%">
     <a href="https://github.com/ololx/plain-old-retro-shooter" target="_blank">
-      <img align="left" width="58%" src="https://github.com/ololx/plain-old-retro-shooter/raw/assets/plain-old-retro-shooter-demo-4.gif?raw=true" alt="plain-old-retro-shooter"/>
+      <img align="left" width="53%" src="https://github.com/ololx/plain-old-retro-shooter/raw/assets/plain-old-retro-shooter-demo-4.gif?raw=true" alt="plain-old-retro-shooter"/>
     </a>
     <a href="https://github.com/ololx/flappy-winny" target="_blank">
-      <img align="right" width="38%" src="https://github.com/ololx/flappy-vinny/raw/assets/demo/flappy-vinny-demo-1.gif?raw=true" alt="flappy-winny"/>
+      <img align="right" width="35%" src="https://github.com/ololx/flappy-vinny/raw/assets/demo/flappy-vinny-demo-1.gif?raw=true" alt="flappy-winny"/>
     </a>
-    <img align="center" width="100%"/>
+    <img width="100%"/>
   </div>
-</details> 
+</details>
+
 <details>
   <summary>Samples And Instances</summary>
     <div width="100%">
