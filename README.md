@@ -55,7 +55,7 @@
     <a href="https://github.com/ololx/plain-old-retro-shooter" target="_blank">
       <img align="left" width="53%" src="https://github.com/ololx/plain-old-retro-shooter/raw/assets/plain-old-retro-shooter-demo-4.gif?raw=true" alt="plain-old-retro-shooter"/>
     </a>
-    <a href="https://github.com/ololx/flappy-winny" target="_blank">
+    <a href="https://github.com/ololx/flappy-vinny" target="_blank">
       <img align="right" width="35%" src="https://github.com/ololx/flappy-vinny/raw/assets/demo/flappy-vinny-demo-1.gif?raw=true" alt="flappy-winny"/>
     </a>
     <img width="100%"/>
