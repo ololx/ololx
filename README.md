@@ -58,7 +58,7 @@
     <a href="https://github.com/ololx/flappy-vinny" target="_blank">
       <img align="right" width="35%" src="https://github.com/ololx/flappy-vinny/raw/assets/demo/flappy-vinny-demo-1.gif?raw=true" alt="flappy-winny"/>
     </a>
-    <img width="100%"/>
+    <img align="center" width="100%"/>
   </div>
 </details>
 
