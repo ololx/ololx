@@ -39,7 +39,7 @@
 
 <details open>
   <summary>Summary</summary> 
-- 🔭 I'm currently working on my <a href="https://ololx.github.io" target="_blank">pet projects</a><br/>
+- 🔭 I'm currently working in Pixonic<br />
 - 🌱 I'm currently learning Java back-end practices & tricks<br/>
 - ❓ Ask me about anything related to OWL-DL ontologies and Description Logics<br/> 
 - ⚡ Fun fact: I use tabs over spaces<br/>   
