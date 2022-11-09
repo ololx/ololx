@@ -306,9 +306,9 @@
      <img align="center" width="42%" src="https://github-readme-streak-stats.herokuapp.com/?user=ololx&cache_seconds=1800&theme=default&hide_border=true" alt="streaks"/>
     <img align="right" width="17%" src="https://github.com/ololx/ololx/blob/main/NeonDonut.gif?raw=true" alt="motto" />
     <img width="100%"/>
-    <img align="left" width="42%" src="https://github-readme-stats.vercel.app/api?username=ololx&show_icons=true&count_private=true&include_all_commits=true&theme=default&custom_title=Some%20Github%20Stats&hide_border=true" alt="general" />
+    <img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=ololx&show_icons=true&count_private=true&include_all_commits=true&theme=default&custom_title=Some%20Github%20Stats&hide_border=true" alt="general" />
     <a href="https://leetcode.com/ololx/" target="_blank">
-        <img align="right" width="32%" src="https://leetcode-stats-six.vercel.app/api?username=ololx" alt="leetcode" />
+        <img align="right" width="40%" src="https://leetcode-stats-six.vercel.app/api?username=ololx" alt="leetcode" />
     </a>
     <img width="100%"/>
 </div>
