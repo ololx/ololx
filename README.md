@@ -59,6 +59,10 @@
       <img align="right" width="35%" src="https://github.com/ololx/flappy-vinny/raw/assets/demo/flappy-vinny-demo-1.gif?raw=true" alt="flappy-winny"/>
     </a>
     <img align="center" width="100%"/>
+    <a href="https://github.com/ololx/plain-old-retro-shooter" target="_blank">
+      <img align="left" width="53%" src="https://github.com/ololx/just-boats/raw/assets/just-boats-1.gif?raw=true" alt="just-boats"/>
+    </a>
+    <img align="center" width="100%"/>  
   </div>
 </details>
 
