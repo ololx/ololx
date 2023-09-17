@@ -313,4 +313,8 @@
         <img align="right" width="40%" src="https://leetcode-stats-six.vercel.app/api?username=ololx" alt="leetcode" />
     </a>
     <img width="100%"/>
+    <a href="https://stackoverflow.com/users/22488388/alexander-a-kropotin">
+      <img height="200" src="https://so-stats-kurt-liao.vercel.app/api?user=22488388"/>
+    </a>
+
 </div>
