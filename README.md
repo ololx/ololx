@@ -43,7 +43,7 @@
 </details>
 
 <div width="100%">
-    <p>My last medium publications</p>
+    <p>My recent medium publications</p>
     <a href="https://medium.com/@ololx/how-can-this-work-concurrent-bitset-3fc03c78d92f">
         <img align="left" src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=ololx">
     </a>
