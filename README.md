@@ -42,6 +42,14 @@
 - ⚡ Fun fact: I use tabs over spaces<br/>   
 </details>
 
+<div width="100%">
+    <p>My last medium publications</p>
+    <a href="https://medium.com/@ololx/how-can-this-work-concurrent-bitset-3fc03c78d92f">
+        <img align="left" src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=ololx">
+    </a>
+    <img align="center" width="100%"/>  
+</div>
+
 <h2 align="left"><a href="https://github.com/ololx?tab=repositories" target="_blank">Projects Quick Walkthrough</a></h2>
 <details open>
 <summary>Gamedev Trials</summary>
@@ -313,7 +321,7 @@
         <img align="right" width="40%" src="https://leetcode-stats-six.vercel.app/api?username=ololx" alt="leetcode" />
     </a>
     <img width="100%"/>
-    <a href="https://stackoverflow.com/users/22488388/alexander-a-kropotin"  target="_blank">
+     <a href="https://stackoverflow.com/users/22488388/alexander-a-kropotin"  target="_blank">
       <img align="right" width="35%" src="https://so-stats-kurt-liao.vercel.app/api?user=22488388" alt="stackoverflow" />
     </a>
 
