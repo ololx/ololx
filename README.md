@@ -44,13 +44,17 @@
 
 <div width="100%">
     <p>My recent medium stories</p>
-    <a href="https://ololx.medium.com">
-        <img align="left" src="https://github-readme-medium.vercel.app/?username=ololx">
+    <a  href="https://ololx.medium.com">
+        <img width="45%" align="left" src="https://medium-story.vercel.app/api?username=@ololx&index=0">
+        <img width="45%" align="right" src="https://medium-story.vercel.app/api?username=@ololx&index=1">
+        <img align="center" width="100%"/> 
+        <img width="45%" align="left" src="https://medium-story.vercel.app/api?username=@ololx&index=2">
+        <img width="45%" align="right" src="https://medium-story.vercel.app/api?username=@ololx&index=3">
+        <img align="center" width="100%"/> 
+        <img width="45%" align="left" src="https://medium-story.vercel.app/api?username=@ololx&index=4">
+        <img width="45%" align="right" src="https://medium-story.vercel.app/api?username=@ololx&index=4">
+        <img align="center" width="100%"/> 
     </a>
-    <a href="https://ololx.medium.com">
-        <img align="left" src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=ololx&limit=6">
-    </a>
-    <img align="center" width="100%"/>  
 </div>
 
 <h2 align="left"><a href="https://github.com/ololx?tab=repositories" target="_blank">Projects Quick Walkthrough</a></h2>
