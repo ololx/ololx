@@ -45,6 +45,9 @@
 <div width="100%">
     <p>My recent medium stories</p>
     <a href="https://ololx.medium.com">
+        <img align="left" src="https://github-readme-medium.vercel.app/?username=ololx">
+    </a>
+    <a href="https://ololx.medium.com">
         <img align="left" src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?username=ololx&limit=6">
     </a>
     <img align="center" width="100%"/>  
