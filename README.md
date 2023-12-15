@@ -45,15 +45,15 @@
 <div width="100%">
     <p>My recent medium stories</p>
     <a  href="https://ololx.medium.com">
-        <img width="45%" align="left" src="https://medium-story.vercel.app/api?username=@ololx&index=0">
-        <img width="45%" align="right" src="https://medium-story.vercel.app/api?username=@ololx&index=1">
-        <img align="center" width="100%"/> 
-        <img width="45%" align="left" src="https://medium-story.vercel.app/api?username=@ololx&index=2">
-        <img width="45%" align="right" src="https://medium-story.vercel.app/api?username=@ololx&index=3">
-        <img align="center" width="100%"/> 
-        <img width="45%" align="left" src="https://medium-story.vercel.app/api?username=@ololx&index=4">
-        <img width="45%" align="right" src="https://medium-story.vercel.app/api?username=@ololx&index=4">
-        <img align="center" width="100%"/> 
+        <img width="40%" align="left" src="https://medium-story.vercel.app/api?username=@ololx&index=0">
+        <img width="40%" align="right" src="https://medium-story.vercel.app/api?username=@ololx&index=1">
+        <img align="center" height="0px" width="100%"/> 
+        <img width="40%" align="left" src="https://medium-story.vercel.app/api?username=@ololx&index=2">
+        <img width="40%" align="right" src="https://medium-story.vercel.app/api?username=@ololx&index=3">
+        <img align="center" height="0px" width="100%"/> 
+        <img width="40%" align="left" src="https://medium-story.vercel.app/api?username=@ololx&index=4">
+        <img width="40%" align="right" src="https://medium-story.vercel.app/api?username=@ololx&index=4">
+        <img align="center" height="0px" width="100%"/> 
     </a>
 </div>
 
