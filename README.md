@@ -18,16 +18,16 @@
 
 <div align="center" width="100%">
   <a href="https://linkedin.com/in/alexander-kropotin-a5107a195" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt=linkedin/>
+      <img src="https://img.shields.io/badge/alexander--kropotin--a5107a195-0077B5?style=flat&logo=linkedin&logoColor=white" alt=linkedin/>
   </a>
   <a href="https://www.facebook.com/alexandr.kropotin.9" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-%232E87FB.svg?&logo=facebook&style=flat&logoColor=white" alt=facebook/>
+    <img src="https://img.shields.io/badge/alexander.kropotin.9-green.svg?&logo=facebook&style=flat&logoColor=blue&color=blue" alt="alexander.kropotin.9"/>
   </a>
   <a href="mailto: ololx@icloud.com" target="_blank">
-    <img src="https://img.shields.io/badge/mail-F2F4F9?style=flat&logo=icloud" alt=icloud style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/ololx@icloud.com-F2F4F9?style=flat&logo=icloud" alt=icloud style="margin-bottom: 5px;" />
   </a>  
   <a href="https://t.me/help_us_Harry" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt=telegram/>
+    <img src="https://img.shields.io/badge/help__Us__Harry-2CA5E0?style=flat&logo=telegram&logoColor=white" alt=telegram/>
   </a>
   <a href="https://icq.im/ololx" target="_blank">
     <img src="https://img.shields.io/badge/icq_new-F2F4F9?style=flat&logo=icq&logoColor=79FA4C&labelColor=000000" alt=icq style="margin-bottom: 5px;" />
