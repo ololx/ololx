@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/help__Us__Harry-2CA5E0?style=flat&logo=telegram&logoColor=white" alt=telegram/>
   </a>
   <a href="https://icq.im/ololx" target="_blank">
-    <img src="https://img.shields.io/badge/icq_new-F2F4F9?style=flat&logo=icq&logoColor=79FA4C&labelColor=000000" alt=icq style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/@ololx-F2F4F9?style=flat&logo=icq&logoColor=79FA4C&labelColor=000000" alt=icq style="margin-bottom: 5px;" />
   </a>
 </div>   
 
@@ -45,13 +45,11 @@
 <div width="100%">
     <p>My recent medium stories</p>
     <a  href="https://ololx.medium.com">
-        <img width="30%" align="left" src="https://medium-story.vercel.app/api?username=@ololx&index=0">
-        <img width="30%" align="center" src="https://medium-story.vercel.app/api?username=@ololx&index=1">
-        <img width="30%" align="right" src="https://medium-story.vercel.app/api?username=@ololx&index=2">
+        <img width="40%" align="left" src="https://medium-story.vercel.app/api?username=@ololx&index=0">
+        <img width="40%" align="center" src="https://medium-story.vercel.app/api?username=@ololx&index=2">
         <img align="center" height="0px" width="100%"/> 
-        <img width="30%" align="left" src="https://medium-story.vercel.app/api?username=@ololx&index=3">
-        <img width="30%" align="center" src="https://medium-story.vercel.app/api?username=@ololx&index=4">
-        <img width="30%" align="right" src="https://medium-story.vercel.app/api?username=@ololx&index=4">
+        <img width="40%" align="left" src="https://medium-story.vercel.app/api?username=@ololx&index=3">
+        <img width="40%" align="center" src="https://medium-story.vercel.app/api?username=@ololx&index=4">
         <img align="center" height="0px" width="100%"/> 
     </a>
 </div>
