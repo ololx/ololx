@@ -55,7 +55,7 @@
 </div>
 
 <h2 align="left"><a href="https://github.com/ololx?tab=repositories" target="_blank">Projects Quick Walkthrough</a></h2>
-<details open>
+<details>
 <summary>Gamedev Trials</summary>
   <div width="100%">
     <p>These are some simple gamedev pet projects, which I created for the achieving educational goals and fun =)</p>
@@ -278,7 +278,7 @@
   </div>
 </details>
 <img align="center" width="100%"/> 
-<details open>
+<details>
   <summary>Simple Tools</summary>
   <div width="100%">
     <p>This is a some of simple tools that I initially implemented with a focus on my needs and use in my daily life.</p>
