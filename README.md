@@ -21,7 +21,7 @@
       <img src="https://img.shields.io/badge/alexander--kropotin--a5107a195-0077B5?style=flat&logo=linkedin&logoColor=white" alt=linkedin/>
   </a>
   <a href="https://www.facebook.com/alexandr.kropotin.9" target="_blank">
-    <img src="https://img.shields.io/badge/alexander.kropotin.9-green.svg?&logo=facebook&style=flat&logoColor=blue&color=blue" alt="alexander.kropotin.9"/>
+    <img src="https://img.shields.io/badge/alexander.kropotin.9-green.svg?&logo=facebook&style=flat&logoColor=white&color=blue" alt="alexander.kropotin.9"/>
   </a>
   <a href="mailto: ololx@icloud.com" target="_blank">
     <img src="https://img.shields.io/badge/ololx@icloud.com-F2F4F9?style=flat&logo=icloud" alt=icloud style="margin-bottom: 5px;" />
