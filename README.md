@@ -17,7 +17,7 @@
 <h3 align="center">PhD in physics and mathematics and a full-time java - developer 👨‍💻 </h3>
 
 <div align="center" width="100%">
-  <a href="https://linkedin.com/in/alexander-kropotin-a5107a195" target="_blank">
+  <a href="https://linkedin.com/in/alexander-kropotin" target="_blank">
       <img src="https://img.shields.io/badge/alexander--kropotin--a5107a195-0077B5?style=flat&logo=linkedin&logoColor=white" alt=linkedin/>
   </a>
   <a href="https://www.facebook.com/alexandr.kropotin.9" target="_blank">
