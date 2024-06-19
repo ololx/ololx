@@ -18,7 +18,7 @@
 
 <div align="center" width="100%">
   <a href="https://linkedin.com/in/alexander-kropotin" target="_blank">
-      <img src="https://img.shields.io/badge/alexander--kropotin--a5107a195-0077B5?style=flat&logo=linkedin&logoColor=white" alt=linkedin/>
+      <img src="https://img.shields.io/badge/alexander--kropotin-0077B5?style=flat&logo=linkedin&logoColor=white" alt=linkedin/>
   </a>
   <a href="https://www.facebook.com/alexandr.kropotin.9" target="_blank">
     <img src="https://img.shields.io/badge/alexander.kropotin.9-green.svg?&logo=facebook&style=flat&logoColor=white&color=blue" alt="alexander.kropotin.9"/>
