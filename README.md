@@ -60,7 +60,7 @@
   <div width="100%">
     <p>These are some simple gamedev pet projects, which I created for the achieving educational goals and fun =)</p>
   </div>
-    <a href="https://lolix.itch.io/nightmaremaze" target="_blank">
+    <a href="https://ololx.itch.io/nightmaremaze" target="_blank">
       <img align="left" width="53%" src="https://img.itch.zone/aW1nLzE3OTU2ODk4LnBuZw==/315x250%23c/nICrem.png" alt="plain-old-retro-shooter"/>
     </a>
   <div align="center" width="100%">
