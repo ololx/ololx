@@ -60,7 +60,9 @@
   <div width="100%">
     <p>These are some simple gamedev pet projects, which I created for the achieving educational goals and fun =)</p>
   </div>
-  <img fsrc="https://itch.io/embed/3001363" width="552" height="167"><a href="https://ololx.itch.io/nightmaremaze">Alone in the Dark Maze by Alexander A. Kropotin</a></img>
+    <a href="https://ololx.itch.io/nightmaremaze">
+        <img fsrc="https://itch.io/embed/3001363" width="552" height="167" target="_blank">
+    </a>
   <div align="center" width="100%">
     <a href="https://github.com/ololx/plain-old-retro-shooter" target="_blank">
       <img align="left" width="53%" src="https://github.com/ololx/plain-old-retro-shooter/raw/assets/plain-old-retro-shooter-demo-4.gif?raw=true" alt="plain-old-retro-shooter"/>
