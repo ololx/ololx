@@ -17,20 +17,23 @@
 <h3 align="center">PhD in physics and mathematics and a full-time java - developer 👨‍💻 </h3>
 
 <div align="center" width="100%">
+  <a href="https://medium.com/@ololx" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white" alt="Read my blog"" />
+  </a>
+    <a href="https://ololx.itch.io" target="_blank">
+    <img src="https://img.shields.io/badge/itch.io-%23FF0B34.svg?logo=Itch.io&logoColor=white" alt="Play on my games" />
+  </a>
   <a href="https://linkedin.com/in/alexander-kropotin" target="_blank">
-      <img src="https://img.shields.io/badge/alexander--kropotin-0077B5?style=flat&logo=linkedin&logoColor=white" alt=linkedin/>
+      <img src="https://img.shields.io/badge/alexander--kropotin-0077B5?style=flat&logo=linkedin&logoColor=white" alt="Connect with me"/>
   </a>
   <a href="https://www.facebook.com/alexandr.kropotin.9" target="_blank">
-    <img src="https://img.shields.io/badge/alexander.kropotin.9-green.svg?&logo=facebook&style=flat&logoColor=white&color=blue" alt="alexander.kropotin.9"/>
+    <img src="https://img.shields.io/badge/alexander.kropotin.9-green.svg?&logo=facebook&style=flat&logoColor=white&color=blue" alt="Add me to friends"/>
   </a>
   <a href="mailto: ololx@icloud.com" target="_blank">
-    <img src="https://img.shields.io/badge/ololx@icloud.com-F2F4F9?style=flat&logo=icloud" alt=icloud style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/ololx@icloud.com-F2F4F9?style=flat&logo=icloud" alt="Write me letter" />
   </a>  
   <a href="https://t.me/help_us_Harry" target="_blank">
-    <img src="https://img.shields.io/badge/help__Us__Harry-2CA5E0?style=flat&logo=telegram&logoColor=white" alt=telegram/>
-  </a>
-  <a href="https://icq.im/ololx" target="_blank">
-    <img src="https://img.shields.io/badge/@ololx-F2F4F9?style=flat&logo=icq&logoColor=79FA4C&labelColor=000000" alt=icq style="margin-bottom: 5px;" />
+    <img src="https://img.shields.io/badge/help__Us__Harry-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Write me message"/>
   </a>
 </div>   
 
