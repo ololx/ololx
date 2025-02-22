@@ -10,8 +10,6 @@
     </a>
 </div>
 
-<img align="center" width="100%" src="https://github.com/ololx/ololx/raw/assets/github-contribution-grid-snake.svg" alt="snake_contributions">
-
 <h1 align="center">Hi there👋, I'm Alexander</h1>
 
 <h3 align="center">PhD in physics and mathematics and a full-time java - developer 👨‍💻 </h3>
@@ -58,6 +56,9 @@
 </div>
 
 <h2 align="left"><a href="https://github.com/ololx?tab=repositories" target="_blank">Projects Quick Walkthrough</a></h2>
+
+<img align="center" width="100%" src="https://github.com/ololx/ololx/raw/assets/github-contribution-grid-snake.svg" alt="snake_contributions">
+
 <div align="center" width="100%">
     <a href="https://gist.github.com/ololx">
         <img height="30%" width="100%" src="https://gist-count.vercel.app/api?username=ololx">
