@@ -12,7 +12,11 @@
 
 <h1 align="center">Hi there👋, I'm Alexander</h1>
 
-<h3 align="center">PhD in physics and mathematics and a full-time java - developer 👨‍💻 </h3>
+<h3 align="center">
+PhD in Physics and Mathematics with experience in software development and team management. Currently working in My.Games (Pixonic studio) as a Senior Software Engineer, specializing in Java. 
+I have experience in mentoring and teaching, having previously worked as an associate professor and regional expert for WorldSkills in 'Mechatronics,' where I coached a team that won second place at the national championship. 
+In my free time, I enjoy automotive painting, writing a blog on Medium (https://ololx.medium.com/), and developing small pet projects on GitHub (https://github.com/ololx).    
+</h3>
 
 <div align="center" width="100%">
   <a href="https://medium.com/@ololx" target="_blank">
