@@ -17,13 +17,13 @@ PhD in Physics and Mathematics with experience in software development and team 
 I have experience in mentoring and teaching, having previously worked as an associate professor and regional expert for WorldSkills in 'Mechatronics,' where I coached a team that won second place at the national championship.    
 </div>
 
-<details open>
+<!--<details open>
   <summary>Summary</summary> 
 - 🔭 I'm currently working in Pixonic<br />
 - 🌱 I'm currently learning Java back-end practices & tricks<br/>
 - ❓ Ask me about anything related to OWL-DL ontologies and Description Logics<br/> 
 - ⚡ Fun fact: I use tabs over spaces<br/>   
-</details>
+</details>-->
 
 <div align="center" width="100%">
   <a href="https://medium.com/@ololx" target="_blank">
