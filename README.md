@@ -24,6 +24,7 @@ I have experience in mentoring and teaching, having previously worked as an asso
 - ❓ Ask me about anything related to OWL-DL ontologies and Description Logics<br/> 
 - ⚡ Fun fact: I use tabs over spaces<br/>   
 </details>-->
+<br/>
 
 <div align="center" width="100%">
   <a href="https://medium.com/@ololx" target="_blank">
@@ -45,7 +46,7 @@ I have experience in mentoring and teaching, having previously worked as an asso
     <img src="https://img.shields.io/badge/help__Us__Harry-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Write me message"/>
   </a>
 </div>   
-
+<br/>
 <div width="100%">
     <p>My recent medium stories</p>
     <a  href="https://ololx.medium.com">
