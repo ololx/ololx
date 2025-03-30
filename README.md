@@ -12,11 +12,18 @@
 
 <h1 align="center">Hi there👋, I'm Alexander</h1>
 
-<h3 align="center">
+<div align="justify">
 PhD in Physics and Mathematics with experience in software development and team management. Currently working in My.Games (Pixonic studio) as a Senior Software Engineer, specializing in Java. 
-I have experience in mentoring and teaching, having previously worked as an associate professor and regional expert for WorldSkills in 'Mechatronics,' where I coached a team that won second place at the national championship. 
-In my free time, I enjoy automotive painting, writing a blog on Medium (https://ololx.medium.com/), and developing small pet projects on GitHub (https://github.com/ololx).    
-</h3>
+I have experience in mentoring and teaching, having previously worked as an associate professor and regional expert for WorldSkills in 'Mechatronics,' where I coached a team that won second place at the national championship.    
+</div>
+
+<details open>
+  <summary>Summary</summary> 
+- 🔭 I'm currently working in Pixonic<br />
+- 🌱 I'm currently learning Java back-end practices & tricks<br/>
+- ❓ Ask me about anything related to OWL-DL ontologies and Description Logics<br/> 
+- ⚡ Fun fact: I use tabs over spaces<br/>   
+</details>
 
 <div align="center" width="100%">
   <a href="https://medium.com/@ololx" target="_blank">
@@ -38,14 +45,6 @@ In my free time, I enjoy automotive painting, writing a blog on Medium (https://
     <img src="https://img.shields.io/badge/help__Us__Harry-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Write me message"/>
   </a>
 </div>   
-
-<details open>
-  <summary>Summary</summary> 
-- 🔭 I'm currently working in Pixonic<br />
-- 🌱 I'm currently learning Java back-end practices & tricks<br/>
-- ❓ Ask me about anything related to OWL-DL ontologies and Description Logics<br/> 
-- ⚡ Fun fact: I use tabs over spaces<br/>   
-</details>
 
 <div width="100%">
     <p>My recent medium stories</p>
