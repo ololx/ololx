@@ -14,7 +14,8 @@
 
 <div align="justify">
 PhD in Physics and Mathematics with experience in software development and team management. Currently working in My.Games (Pixonic studio) as a Senior Software Engineer, specializing in Java. 
-I have experience in mentoring and teaching, having previously worked as an associate professor and regional expert for WorldSkills in 'Mechatronics,' where I coached a team that won second place at the national championship.    
+I have experience in mentoring and teaching, having previously worked as an associate professor and regional expert for WorldSkills in 'Mechatronics,' where I coached a team that won second place at the national championship. 
+In my free time, I enjoy writing a blog on Medium (https://ololx.medium.com/).   
 </div>
 
 <!--<details open>
@@ -59,7 +60,7 @@ I have experience in mentoring and teaching, having previously worked as an asso
     </a>
 </div>
 
-<h2 align="left"><a href="https://github.com/ololx?tab=repositories" target="_blank">Projects Quick Walkthrough</a></h2>
+<h2 align="left"><a href="https://github.com/ololx?tab=repositories&q=&type=&language=&sort=stargazers" target="_blank">Projects Quick Walkthrough</a></h2>
 
 <img align="center" width="100%" src="https://github.com/ololx/ololx/raw/assets/github-contribution-grid-snake.svg" alt="snake_contributions">
 
