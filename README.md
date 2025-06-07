@@ -15,7 +15,7 @@
 <div align="justify">
 PhD in Physics and Mathematics with experience in software development and team management. Currently working in My.Games (Pixonic studio) as a Senior Software Engineer, specializing in Java. 
 I have experience in mentoring and teaching, having previously worked as an associate professor and regional expert for WorldSkills in 'Mechatronics,' where I coached a team that won second place at the national championship. 
-In my free time, I enjoy writing a blog on Medium (https://ololx.medium.com/).   
+In my free time, I enjoy writing a blog on <a href="https://ololx.medium.com/" target=blank>Medium </a>.   
 </div>
 
 <!--<details open>
