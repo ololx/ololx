@@ -66,7 +66,7 @@ In my free time, I enjoy writing a blog on <a href="https://ololx.medium.com/" t
 
 <div align="center" width="100%">
     <a href="https://gist.github.com/ololx">
-        <img height="30%" width="100%" src="https://gist-count.vercel.app/api?username=ololx">
+        <img width="100%" src="https://gist-count.vercel.app/api?username=ololx">
     </a>
 </div>    
 
@@ -81,7 +81,7 @@ In my free time, I enjoy writing a blog on <a href="https://ololx.medium.com/" t
     <img width="100%"/>
     <img align="left" width="36%" src="https://github-readme-stats.vercel.app/api?username=ololx&show_icons=true&count_private=true&include_all_commits=true&theme=default&custom_title=Some%20Github%20Stats&hide_border=true" alt="general" />
     <a href="https://leetcode.com/ololx/" target="_blank">
-        <img align="right" width="40%" src="https://leetcode-stats-six.vercel.app/api?username=ololx" alt="leetcode" />
+        <img align="right" width="40%" src="https://leetcode-badge-sage.vercel.app/badge/ololx?theme=neutral" alt="leetcode" />
     </a>
     <img width="100%"/>
 </div>
